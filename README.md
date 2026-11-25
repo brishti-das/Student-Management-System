@@ -50,19 +50,6 @@ Methods:
 - Python 3
 - Object-Oriented Programming (OOP)
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone YOUR_GITHUB_REPOSITORY_LINK
-   ```
-
-2. Open the project folder.
-
-3. Run the Python file:
-   ```bash
-   python main.py
-   ```
 
 ## Author
 **Brishti Das**
